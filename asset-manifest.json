@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.6ed29014.css",
-    "main.js": "/static/js/main.fabf3b16.js",
-    "static/media/pharma.jfif": "/static/media/pharma.69be3d2104de1b599860.jfif",
-    "static/media/craft.jpg": "/static/media/craft.94c87d6013baf6894c1f.jpg",
-    "static/media/react.png": "/static/media/react.0cf951a69d8e58f83f9d.png",
-    "static/media/github.png": "/static/media/github.3b9e32903aa89111875d.png",
-    "static/media/html.png": "/static/media/html.2ba4fabc69a89a8f71e6.png",
-    "static/media/tailwind.png": "/static/media/tailwind.e47ac876b8d4d0bba47a.png",
-    "static/media/css.png": "/static/media/css.69a82c2d9e45c933a9cb.png",
-    "static/media/c.jpg": "/static/media/c.e4e201a9817150f91748.jpg",
-    "static/media/transport.jpeg": "/static/media/transport.96baa4cb0a974e217d6f.jpeg",
-    "static/media/javascript.png": "/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
-    "static/media/mongo.jfif": "/static/media/mongo.53aff82d596498a5e78c.jfif",
-    "index.html": "/index.html",
-    "main.6ed29014.css.map": "/static/css/main.6ed29014.css.map",
-    "main.fabf3b16.js.map": "/static/js/main.fabf3b16.js.map"
+    "main.css": "/Portfolio/static/css/main.6ed29014.css",
+    "main.js": "/Portfolio/static/js/main.8869a610.js",
+    "static/media/pharma.jfif": "/Portfolio/static/media/pharma.69be3d2104de1b599860.jfif",
+    "static/media/craft.jpg": "/Portfolio/static/media/craft.94c87d6013baf6894c1f.jpg",
+    "static/media/react.png": "/Portfolio/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/github.png": "/Portfolio/static/media/github.3b9e32903aa89111875d.png",
+    "static/media/html.png": "/Portfolio/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/tailwind.png": "/Portfolio/static/media/tailwind.e47ac876b8d4d0bba47a.png",
+    "static/media/css.png": "/Portfolio/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/c.jpg": "/Portfolio/static/media/c.e4e201a9817150f91748.jpg",
+    "static/media/transport.jpeg": "/Portfolio/static/media/transport.96baa4cb0a974e217d6f.jpeg",
+    "static/media/javascript.png": "/Portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "static/media/mongo.jfif": "/Portfolio/static/media/mongo.53aff82d596498a5e78c.jfif",
+    "index.html": "/Portfolio/index.html",
+    "main.6ed29014.css.map": "/Portfolio/static/css/main.6ed29014.css.map",
+    "main.8869a610.js.map": "/Portfolio/static/js/main.8869a610.js.map"
   },
   "entrypoints": [
     "static/css/main.6ed29014.css",
-    "static/js/main.fabf3b16.js"
+    "static/js/main.8869a610.js"
   ]
 }
