@@ -9,6 +9,8 @@ import c from '../assets/c.jpg'
 import python from '../assets/python.jpg'
 import java from '../assets/java.png'
 import mysql from '../assets/mysql.png'
+import mongo from '../assets/mongo.jfif'
+import word from '../assets/wordpress.png'
 
 const Exp = () => {
   return (
@@ -58,6 +60,14 @@ const Exp = () => {
           <div className='shadow-md hover:scale-105 duration-300 py-3 rounded-md shadow-gray-500'>
             <img src={mysql} alt="" className='w-20 h-20 mx-auto' />
             <p className='mt-4'>MySQL</p>
+          </div>
+          <div className='shadow-md hover:scale-105 duration-300 py-3 rounded-md shadow-gray-500'>
+            <img src={mongo} alt="" className='w-20 h-20 mx-auto' />
+            <p className='mt-4'>MongoDB</p>
+          </div>
+          <div className='shadow-md hover:scale-105 duration-300 py-3 rounded-md shadow-gray-500'>
+            <img src={word} alt="" className='w-20 h-20 mx-auto' />
+            <p className='mt-4'>WordPress</p>
           </div>
         </div>
       </div>
